@@ -1,4 +1,4 @@
-# Formação SQL Database Specialist - DIO
+# Formação SQL Database Specialist - Digital Innovation One (DIO)
 
 ## Desafio 001 - Modelagem EER de um banco de dados de E-commerce com os seguintes requisitos:
 
